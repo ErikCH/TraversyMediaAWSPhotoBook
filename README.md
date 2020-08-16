@@ -1,4 +1,5 @@
-# photobook-yt
+# Photo Book Example With AWS Amplify
+## This was a collab between [Program With Erik](http://erik.video) and [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) 
 
 ## Project setup
 ```
