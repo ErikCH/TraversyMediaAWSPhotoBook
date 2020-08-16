@@ -1,0 +1,17 @@
+{
+    "projectName": "AmplifyPhotoBookYT",
+    "version": "3.0",
+    "frontend": "javascript",
+    "javascript": {
+        "framework": "vue",
+        "config": {
+            "SourceDir": "src",
+            "DistributionDir": "dist",
+            "BuildCommand": "npm run build",
+            "StartCommand": "npm run-script serve"
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}
