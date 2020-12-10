@@ -14,6 +14,12 @@
         "categories": {
             "auth": {
                 "amplifyphotobookytd77f5a70": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1uy9de3dt3vmj",
+                    "type": "manual"
+                }
             }
         }
     }
